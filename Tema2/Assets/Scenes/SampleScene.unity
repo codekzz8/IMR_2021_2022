@@ -1940,12 +1940,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ball: {fileID: 1622267689}
   throwingForce: 300
-  playerCamera: {fileID: 7620036}
   toggleReference: {fileID: -4821922447424581557, guid: da2b439d1a2de5c46a4f428f8cf4fe19, type: 3}
   gripReference: {fileID: -681151063944262417, guid: da2b439d1a2de5c46a4f428f8cf4fe19, type: 3}
-  rightHand: {fileID: 488121915}
   leftHand: {fileID: 1884033951}
-  rig: {fileID: 843301194}
+  rightHand: {fileID: 488121915}
 --- !u!1 &966322214
 GameObject:
   m_ObjectHideFlags: 0
